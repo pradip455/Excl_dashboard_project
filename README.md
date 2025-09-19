@@ -2,7 +2,7 @@
 
 The Vrinda Store wants to create an annual sales report for 2022. So that, the owner of the Vrinda store can understand their customers and grow more sales in 2025.
 
-Questions (KPIs)
+## **Questions (KPIs)**
 
 Compare the sales and orders using single chart.
 
@@ -20,7 +20,7 @@ Which Channel is contributing maximum to the sales?
 
 Highest selling category?
 
-Process
+## **Process**
 
 Verify data for any missing values and anomalies, and sort out the same.
 
@@ -30,7 +30,7 @@ Created pivot tables according to the questions asked.
 
 Merge all pivot tables into one dashboard and apply slicer to make dashboard interactive and dynamic.
 
-Project Insight
+## **Project Insight**
 
 Women customers are more likely to buy products compared to men (~65%).
 
@@ -40,6 +40,6 @@ The adult age group (30-49 yrs) is max contributing (~50%) and buys the most pro
 
 The maximum number of products customer orders from Amazon, Flipkart and Myntra channels.
 
-Final Conclusion:
+## **Final Conclusion:**
 
 To improve sales of Vrinda Store, women customers of the age group (30-49 yrs) living in Maharashtra, Karnataka and Uttar Pradesh must be targeted by showing ads/offers/coupons available on Amazon,Flipkart and Myntra.
